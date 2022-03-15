@@ -1,0 +1,1 @@
+# -ESX-to-QB-Core-to-VRP-Translator-manual-translator-updated
